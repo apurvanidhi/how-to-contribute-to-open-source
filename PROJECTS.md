@@ -3,8 +3,8 @@
 This file contains a list of projects and organizations that are friendly to
 contributions, along with quick links to relevant documents you should reference
 before contributing.
-
-- [Babel](https://github.com/babel/babel) (project)
+Contribution: Apurva Nidhi #Hacktoberfest
+- [Babel](https://github.com/babel/babel) (Project)
     - [Contributing Guide](https://github.com/babel/babel/blob/master/CONTRIBUTING.md)
     - Issue labels:
         - [Good First Issue](https://github.com/babel/babel/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
